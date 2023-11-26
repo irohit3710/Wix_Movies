@@ -36,3 +36,4 @@ Technologies used in the project:
 *   CSS
 *   Framer Motion
 *   IMDB Movie API
+*   Javascript
